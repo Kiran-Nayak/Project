@@ -44,7 +44,6 @@
 		043586622A8B8BF1007305B9 /* NoteResponseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043586402A8B8BF1007305B9 /* NoteResponseModel.swift */; };
 		043586632A8B8BF1007305B9 /* PhoneNumberResponseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043586412A8B8BF1007305B9 /* PhoneNumberResponseModel.swift */; };
 		043586642A8B8BF1007305B9 /* OTPResponseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043586422A8B8BF1007305B9 /* OTPResponseModel.swift */; };
-		043586652A8B8BF1007305B9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043586432A8B8BF1007305B9 /* ViewController.swift */; };
 		5229008E96A8DFC1E7A0B458 /* Pods_Project.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 15AB37E44C5335D8002E1953 /* Pods_Project.framework */; };
 /* End PBXBuildFile section */
 
@@ -88,7 +87,6 @@
 		043586402A8B8BF1007305B9 /* NoteResponseModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoteResponseModel.swift; sourceTree = "<group>"; };
 		043586412A8B8BF1007305B9 /* PhoneNumberResponseModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhoneNumberResponseModel.swift; sourceTree = "<group>"; };
 		043586422A8B8BF1007305B9 /* OTPResponseModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OTPResponseModel.swift; sourceTree = "<group>"; };
-		043586432A8B8BF1007305B9 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = ../../../Documents/Project/Project/ViewController.swift; sourceTree = "<group>"; };
 		15AB37E44C5335D8002E1953 /* Pods_Project.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Project.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DD16F424619E18FAF9EBF7F /* Pods-Project.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Project.release.xcconfig"; path = "Target Support Files/Pods-Project/Pods-Project.release.xcconfig"; sourceTree = "<group>"; };
 		594211B78C0E0CF980159C39 /* Pods-Project.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Project.debug.xcconfig"; path = "Target Support Files/Pods-Project/Pods-Project.debug.xcconfig"; sourceTree = "<group>"; };
@@ -136,7 +134,6 @@
 				043586332A8B8BF0007305B9 /* resources */,
 				043586142A8B8BF0007305B9 /* screens */,
 				0435860F2A8B8BF0007305B9 /* services */,
-				043586432A8B8BF1007305B9 /* ViewController.swift */,
 				043585F62A8B8BC6007305B9 /* AppDelegate.swift */,
 				043585F82A8B8BC6007305B9 /* SceneDelegate.swift */,
 				043585FF2A8B8BC6007305B9 /* Assets.xcassets */,
@@ -520,7 +517,6 @@
 				043586622A8B8BF1007305B9 /* NoteResponseModel.swift in Sources */,
 				0435864C2A8B8BF1007305B9 /* OTPViewModel.swift in Sources */,
 				043586562A8B8BF1007305B9 /* InterestedTableViewCell.swift in Sources */,
-				043586652A8B8BF1007305B9 /* ViewController.swift in Sources */,
 				043586642A8B8BF1007305B9 /* OTPResponseModel.swift in Sources */,
 				0435864B2A8B8BF1007305B9 /* NoteVC.swift in Sources */,
 				043586542A8B8BF1007305B9 /* LikedPeopleTableViewCell.swift in Sources */,
